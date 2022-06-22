@@ -1,2 +1,2 @@
 # face-recognition
-Projeto Machine Learning - Reconhecimento de Faces (Face Recognition)
+Project Machine Learning - Face Recognition (Reconhecimento de Facial)
